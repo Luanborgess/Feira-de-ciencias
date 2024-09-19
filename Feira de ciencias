@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alimentos Ultraprocessados e Saúde Humana</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #444;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #ddd;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .samples {
+            background-color: #e0e7ff;
+            padding: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Alimentos Ultraprocessados e os Riscos à Saúde Humana</h1>
+        </div>
+
+        <section>
+            <h2>Parte Teórica</h2>
+            <p>Os alimentos ultraprocessados são amplamente consumidos pela população e seu pH pode influenciar no funcionamento do corpo humano, especialmente no sistema digestório. Além disso, muitas substâncias químicas presentes nesses alimentos, como conservantes e corantes artificiais, podem ser prejudiciais à saúde.</p>
+            <p>Alimentos com pH muito ácido ou muito alcalino podem afetar o equilíbrio do sistema digestório, enquanto substâncias como glutamato monossódico (MSG) e adoçantes artificiais podem causar efeitos negativos a longo prazo.</p>
+        </section>
+
+        <section class="samples">
+            <h2>Parte Prática - Amostras de Alimentos e Valores de pH</h2>
+            <ul>
+                <li><strong>Refrigerante:</strong> pH 2.5</li>
+                <li><strong>Salgadinho de pacote:</strong> pH 6.8</li>
+                <li><strong>Macarrão instantâneo:</strong> pH 5.5</li>
+                <li><strong>Biscoito recheado:</strong> pH 6.2</li>
+                <li><strong>Cereal matinal açucarado:</strong> pH 5.8</li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>Este site foi criado como parte de um trabalho de feira de ciências sobre os impactos dos alimentos ultraprocessados no organismo humano.</p>
+        </footer>
+    </div>
+</body>
+</html>
